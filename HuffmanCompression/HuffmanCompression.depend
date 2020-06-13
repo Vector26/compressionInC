@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591980801 source:f:\work\programming\cc++\huffman\compressioninc\huffmancompression\main.c
+	"List.h"
+
+1591980897 f:\work\programming\cc++\huffman\compressioninc\huffmancompression\list.h
+	<stdio.h>
+	<stdlib.h>
+
