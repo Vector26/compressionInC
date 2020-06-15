@@ -31,6 +31,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="GeeksForGeeksmodel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="List.h" />
+		<Unit filename="Tree.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
